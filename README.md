@@ -11,3 +11,5 @@ yes
 
 download the musik
 https://pypi.org/project/spotify-dl/
+browser version
+https://replit.com/join/gjigdccbna-arpanhj
