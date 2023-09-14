@@ -7,3 +7,7 @@ usage
 python3 test1.py
 
 yes
+
+
+download the musik
+https://pypi.org/project/spotify-dl/
